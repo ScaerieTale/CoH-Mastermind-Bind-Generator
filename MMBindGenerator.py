@@ -19,3 +19,15 @@ numpad8 petcom_pow {minName} follow
 numpad9 petcom_pow {minName} goto
 lctrl+decimal petcom_pow {minName} dismiss""")
         f.close()
+while True:
+    title2 = input("Enter your LT (second pet's eg Enforcer, GraveKnight, ProtBot) common name ")
+    ltName = input("Enter your LT pet's Power name (e.g. Call Jounin)")
+    f = open(f"{title2}.txt", 'w')
+    f.write(f"""numpad4 petcom_pow {ltName} aggressive
+numpad5 petcom_pow {ltName} defensive
+numpad6 petcom_pow {ltName} passive
+numpad7 petcom_pow {ltName} attack
+numpad8 petcom_pow {ltName} follow
+numpad9 petcom_pow {ltName} goto
+lctrl+decimal petcom_pow {ltName} dismiss""")
+    f.close
