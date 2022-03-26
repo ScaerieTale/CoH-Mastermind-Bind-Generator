@@ -1,0 +1,7 @@
+numpad4 petcom_pow assau aggressive
+        numpad5 petcom_pow assau defensive
+        numpad6 petcom_pow assau passive
+        numpad7 petcom_pow assau attack
+        numpad8 petcom_pow assau follow
+        numpad9 petcom_pow assau goto
+        lctrl+decimal petcom_pow assau dismiss

@@ -1,0 +1,7 @@
+numpad4 petcom_all aggressive
+numpad5 petcom_all defensive
+numpad6 petcom_all passive
+numpad7 petcom_all attack
+numpad8 petcom_all follow
+numpad9 petcom_all goto
+lctrl+decimal petcom_all dismiss

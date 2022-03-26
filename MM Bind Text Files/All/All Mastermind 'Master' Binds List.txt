@@ -1,0 +1,24 @@
+In order to make use of these files efficiently, I've listed the name of each MASTER file
+Remember to press Numpad 0 after loading :)
+Capitalization doesn't matter.  I just wrote the titles this way to make them easier to spot at a glance.
+
+Beast Mastery:
+/bindloadfile BeastMM.txt
+
+Demon Summoning:
+/bindloadfile DemonsMM.txt
+
+Mercenaries:
+/bindloadfile MercsMM.txt
+
+Necromancy:
+/bindloadfile NecroMM.txt
+
+Ninjas:
+/bindloadfile NinjasMM.txt
+
+Robotics:
+/bindloadfile BotsMM.txt
+
+Thugs:
+/bindloadfile ThugsMM.txt

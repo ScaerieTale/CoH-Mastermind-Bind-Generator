@@ -1,0 +1,7 @@
+numpad4 petcom_pow lions aggressive
+numpad5 petcom_pow lions defensive
+numpad6 petcom_pow lions passive
+numpad7 petcom_pow lions attack
+numpad8 petcom_pow lions follow
+numpad9 petcom_pow lions goto
+lctrl+decimal petcom_pow lions dismiss

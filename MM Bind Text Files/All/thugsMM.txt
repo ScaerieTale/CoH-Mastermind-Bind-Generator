@@ -1,0 +1,9 @@
+numpad0 bindloadfilesilent "\all.txt"
+numpad1 bindloadfilesilent "\thugs.txt"
+numpad2 bindloadfilesilent "\enforcers.txt"
+numpad3 bindloadfilesilent "\bruiser.txt"
+divide powexec_name Call Thugs
+multiply powexec_name Call Enforcer
+subtract powexec_name Call Bruiser
+add powexec_name equip thugs
+numpadenter powexec_name upgrade equipment

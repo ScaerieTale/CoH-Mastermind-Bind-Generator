@@ -1,0 +1,7 @@
+numpad4 petcom_pow bruiser aggressive
+numpad5 petcom_pow bruiser defensive
+numpad6 petcom_pow bruiser passive
+numpad7 petcom_pow bruiser attack
+numpad8 petcom_pow bruiser follow
+numpad9 petcom_pow bruiser goto
+lctrl+decimal petcom_pow bruiser dismiss

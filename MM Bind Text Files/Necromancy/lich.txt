@@ -1,0 +1,7 @@
+numpad4 petcom_pow lich aggressive
+numpad5 petcom_pow lich defensive
+numpad6 petcom_pow lich passive
+numpad7 petcom_pow lich attack
+numpad8 petcom_pow lich follow
+numpad9 petcom_pow lich goto
+lctrl+decimal petcom_pow lich dismiss

@@ -1,0 +1,7 @@
+numpad4 petcom_pow soldiers aggressive
+numpad5 petcom_pow soldiers defensive
+numpad6 petcom_pow soldiers passive
+numpad7 petcom_pow soldiers attack
+numpad8 petcom_pow soldiers follow
+numpad9 petcom_pow soldiers goto
+lctrl+decimal petcom_pow soldiers dismiss

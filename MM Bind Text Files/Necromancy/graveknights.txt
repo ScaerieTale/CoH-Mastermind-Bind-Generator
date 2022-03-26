@@ -1,0 +1,7 @@
+numpad4 petcom_pow grave knights aggressive
+numpad5 petcom_pow grave knights defensive
+numpad6 petcom_pow grave knights passive
+numpad7 petcom_pow grave knights attack
+numpad8 petcom_pow grave knights follow
+numpad9 petcom_pow grave knights goto
+lctrl+decimal petcom_pow grave knights dismiss

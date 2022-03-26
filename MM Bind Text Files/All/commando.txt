@@ -1,0 +1,7 @@
+numpad4 petcom_pow commando aggressive
+numpad5 petcom_pow commando defensive
+numpad6 petcom_pow commando passive
+numpad7 petcom_pow commando attack
+numpad8 petcom_pow commando follow
+numpad9 petcom_pow commando goto
+lctrl+decimal petcom_pow commando dismiss

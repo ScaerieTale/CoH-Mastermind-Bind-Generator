@@ -1,0 +1,7 @@
+numpad4 petcom_pow "demon prince" aggressive
+numpad5 petcom_pow "demon prince" defensive
+numpad6 petcom_pow "demon prince" passive
+numpad7 petcom_pow "demon prince" attack
+numpad8 petcom_pow "demon prince" follow
+numpad9 petcom_pow "demon prince" goto
+lctrl+decimal petcom_pow "demon prince" dismiss

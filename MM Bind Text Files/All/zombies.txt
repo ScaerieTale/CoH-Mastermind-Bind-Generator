@@ -1,0 +1,7 @@
+numpad4 petcom_pow zom aggressive
+        numpad5 petcom_pow zom defensive
+        numpad6 petcom_pow zom passive
+        numpad7 petcom_pow zom attack
+        numpad8 petcom_pow zom follow
+        numpad9 petcom_pow zom goto
+        lctrl+decimal petcom_pow zom dismiss

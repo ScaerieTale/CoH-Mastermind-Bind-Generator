@@ -1,0 +1,9 @@
+numpad0 bindloadfilesilent "\all.txt"
+numpad1 bindloadfilesilent "\soldiers.txt"
+numpad2 bindloadfilesilent "\specops.txt"
+numpad3 bindloadfilesilent "\commando.txt"
+divide powexec_name soldiers
+multiply powexec_name spec ops
+subtract powexec_name commando
+add powexec_name equip mercenary
+numpadenter powexec_name tactical upgrade

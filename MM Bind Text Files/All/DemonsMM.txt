@@ -1,0 +1,9 @@
+numpad0 bindloadfilesilent "\all.txt"
+numpad1 bindloadfilesilent "\demonlings.txt"
+numpad2 bindloadfilesilent "\demons.txt"
+numpad3 bindloadfilesilent "\demonprince.txt"
+divide powexec_name summon demonlings
+multiply powexec_name summon demons
+subtract powexec_name summon demon prince
+add powexec_name enchant demon
+numpadenter powexec_name abyssal empowerment

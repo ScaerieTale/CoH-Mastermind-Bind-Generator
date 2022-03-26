@@ -1,0 +1,7 @@
+numpad4 petcom_pow jounin aggressive
+        numpad5 petcom_pow jounin defensive
+        numpad6 petcom_pow jounin passive
+        numpad7 petcom_pow jounin attack
+        numpad8 petcom_pow jounin follow
+        numpad9 petcom_pow jounin goto
+        lctrl+decimal petcom_pow jounin dismiss

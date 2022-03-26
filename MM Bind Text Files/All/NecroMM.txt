@@ -1,0 +1,9 @@
+numpad0 bindloadfilesilent "\all.txt"
+numpad1 bindloadfilesilent "\zombies.txt"
+numpad2 bindloadfilesilent "\graveknights.txt"
+numpad3 bindloadfilesilent "\lich.txt"
+divide powexec_name "Zombie Horde"
+multiply powexec_name "Grave Knight"
+subtract powexec_name lich
+add powexec_name "enchant undead"
+numpadenter powexec_name "dark empowerment"

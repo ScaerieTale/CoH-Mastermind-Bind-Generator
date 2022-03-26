@@ -1,0 +1,7 @@
+numpad4 petcom_pow wolv aggressive
+numpad5 petcom_pow wolv defensive
+numpad6 petcom_pow wolv passive
+numpad7 petcom_pow wolv attack
+numpad8 petcom_pow wolv follow
+numpad9 petcom_pow wolv goto
+lctrl+decimal petcom_pow wolv dismiss
