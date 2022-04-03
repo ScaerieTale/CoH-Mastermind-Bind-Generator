@@ -67,7 +67,7 @@ Shenanigunner’s awesome City of Heroes Technical Manual and Heroica
 http://www.shenanigunner.com/ 
 While just being an all around excellent resource, I wouldn’t have found the default locations for binds across the different launchers without having to manually log into each, create test characters, and trial and error my way through creating and saving dummy bind files.
 
-## About the AuthorAbout the Author
+## About the Author
 I played City of Heroes from just after Issue 1 launched though at the time, I hadn’t realized the game had only been out for a few months.  A friend talked me into joining with him on the Virtue server where I ran with a handful of small-to-very-small supergroups over the years.  I was never a big face on the server, and I honestly liked it that way - despite some of my SG members’ best efforts to introduce me to the likes of Ascendant and others :P
 
 Outside of the game, I'm legally blind, LGBTQ (transgender, lesbian), an extremely geeky author, I love music and play the piano, guitar, saxophone, and dabble in violin sometimes, I am an ADHD/neuro atypical advocate (and may be on the autism spectrum.
