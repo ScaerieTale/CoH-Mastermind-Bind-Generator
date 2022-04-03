@@ -1,6 +1,6 @@
 UPDATE: [Google Drive](https://drive.google.com/drive/folders/1VMip6oCxyxNFEISLbuJ6QKlgz_OOsoUl?usp=sharing) download link.  I'm sorry.  I didn't realize what a massive pain in the ass GitHub was about downloading files or I would have hosted them there to begin with.  But at least you can inspect them for yourself, compare them to Sandolphan's, and see if I broke anything haha.
 
-#Welcome to my text files archive of Sandolphan's **excellent** Mastermind Numpad Binds! 👋 This archive contains text Numpad bind files based entirely on Sandolphan’s brilliant guide from the old forums (see “FAQ” below).
+Welcome to my text files archive of Sandolphan's **excellent** Mastermind Numpad Binds! 👋 This archive contains text Numpad bind files based entirely on Sandolphan’s brilliant guide from the old forums (see “FAQ” below).
 
 Each .zip archive in this folder (except for ‘All’) contains a single set of Mastermind Numpad keybinds text files relating to each respective Mastermind primary.  All, of course, contains all of them in a single archive.
 
