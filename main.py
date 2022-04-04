@@ -1,3 +1,6 @@
+from asyncore import write
+
+
 masterFile = input("Enter the nickname for your Primary (eg Ninjas, Necro, etc): ")
 tier1 = input("Enter the name or nickname for your Tier 1 pet (eg Genin, Zombie) ")
 tier2 = input("Next, the name of your tier 2 pet: ")
@@ -27,9 +30,3 @@ print("that tell your dumdums what to do.")
 trueName1 = input("Please enter your Tier 1 minion's name as it appears in the world (e.g. Zombie, Battle Drone, etc): ")
 trueName2 = input("Now enter your Tier 2 pet's name as above (e.g. Grave Knight): ")
 bobFromAccounting = input("Now enter your tier 3 pet's name as before.")
-f = open(f"{tier1}", 'w')
-# There's going to be an iterative loop here that
-# cycles through creating 3 files for the 3 pet types
-# I just need to learn how to create an iterative loop
-# that updates the variable each time it loops around
-# Stay tuned!
