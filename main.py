@@ -1,5 +1,5 @@
 from asyncore import write
-
+import files_generator
 
 masterFile = input("Enter the nickname for your Primary (eg Ninjas, Necro, etc): ")
 tier1 = input("Enter the name or nickname for your Tier 1 pet (eg Genin, Zombie) ")
