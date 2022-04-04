@@ -1,7 +1,7 @@
 numpad4 petcom_pow demons aggressive
-        numpad5 petcom_pow demons defensive
-        numpad6 petcom_pow demons passive
-        numpad7 petcom_pow demons attack
-        numpad8 petcom_pow demons follow
-        numpad9 petcom_pow demons goto
-        lctrl+decimal petcom_pow demons dismiss
+numpad5 petcom_pow demons defensive
+numpad6 petcom_pow demons passive
+numpad7 petcom_pow demons attack
+numpad8 petcom_pow demons follow
+numpad9 petcom_pow demons goto
+lctrl+decimal petcom_pow demons dismiss

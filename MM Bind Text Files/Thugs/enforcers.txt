@@ -1,7 +1,0 @@
-numpad4 petcom_pow enforcer aggressive
-numpad5 petcom_pow enforcer defensive
-numpad6 petcom_pow enforcer passive
-numpad7 petcom_pow enforcer attack
-numpad8 petcom_pow ebfircer follow
-numpad9 petcom_pow enforcer goto
-lctrl+decimal petcom_pow enforcer dismiss

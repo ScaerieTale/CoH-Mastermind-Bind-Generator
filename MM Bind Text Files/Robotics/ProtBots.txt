@@ -1,7 +1,7 @@
-numpad4 petcom_pow protector bots aggressive
-numpad5 petcom_pow protector bots defensive
-numpad6 petcom_pow protector bots passive
-numpad7 petcom_pow protector bots attack
-numpad8 petcom_pow protector bots follow
-numpad9 petcom_pow protector bots goto
-lctrl+decimal petcom_pow protector bots dismiss
+numpad4 petcom_pow protector bot aggressive
+numpad5 petcom_pow protector bot defensive
+numpad6 petcom_pow protector bot passive
+numpad7 petcom_pow protector bot attack
+numpad8 petcom_pow protector bot follow
+numpad9 petcom_pow protector bot goto
+lctrl+decimal petcom_pow protector bot dismiss

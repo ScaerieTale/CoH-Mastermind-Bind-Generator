@@ -1,7 +1,7 @@
 numpad4 petcom_pow genin aggressive
-        numpad5 petcom_pow genin defensive
-        numpad6 petcom_pow genin passive
-        numpad7 petcom_pow genin attack
-        numpad8 petcom_pow genin follow
-        numpad9 petcom_pow genin goto
+numpad5 petcom_pow genin defensive
+numpad6 petcom_pow genin passive
+numpad7 petcom_pow genin attack
+numpad8 petcom_pow genin follow
+numpad9 petcom_pow genin goto
         lctrl+decimal petcom_pow genin dismiss
