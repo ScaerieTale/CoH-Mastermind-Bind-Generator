@@ -1,9 +1,0 @@
-numpad0 bindloadfilesilent "\all.txt"
-numpad1 bindloadfilesilent "\BatDrones.txt"
-numpad2 bindloadfilesilent "\protbots.txt"
-numpad3 bindloadfilesilent "\assaultbot.txt"
-divide powexec_name Battle Drones
-multiply powexec_name Protector Bots
-subtract powexec_name Assault Bot
-add powexec_name equip robot
-numpadenter powexec_name upgrade robot

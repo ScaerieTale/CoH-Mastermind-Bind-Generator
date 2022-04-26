@@ -1,7 +1,0 @@
-numpad4 petcom_pow oni aggressive
-numpad5 petcom_pow oni defensive
-numpad6 petcom_pow oni passive
-numpad7 petcom_pow oni attack
-numpad8 petcom_pow oni follow
-numpad9 petcom_pow oni goto
-lctrl+decimal petcom_pow oni dismiss

@@ -1,7 +1,0 @@
-numpad4 petcom_pow battle aggressive
-numpad5 petcom_pow battle defensive
-numpad6 petcom_pow battle passive
-numpad7 petcom_pow battle attack
-numpad8 petcom_pow battle follow
-numpad9 petcom_pow battle goto
-lctrl+decimal petcom_pow battle dismiss

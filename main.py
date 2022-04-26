@@ -23,16 +23,16 @@ numpadenter powexec_name {buff_2}
 ''')
 file.close()
 
-# So, I don't fully understand WHY this works, but I'm not
-# going to complain either.  Basically setting up the pets
-# as a dictionary like this, lets me call both pet nickname
-# (for the file name) and pet summon name (fr ingame use) within
-# a single for loop.
+
+# combine the different sets of variables into a single dictionary
+# set to make it easier to write them at the same time
+
 pets = {
     tier_1: tier_1_summon,
     tier_2: tier_2_summon,
     tier_3: tier_3_summon
 }
+
 # "child" pet files generator
 for pet, summon in pets.items():
     file = open(f"{pet}.txt", 'w')

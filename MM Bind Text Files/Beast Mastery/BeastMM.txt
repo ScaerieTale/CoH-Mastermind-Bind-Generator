@@ -1,9 +1,0 @@
-numpad0 bindloadfilesilent "\all.txt"
-numpad1 bindloadfilesilent "\wolves.txt"
-numpad2 bindloadfilesilent "\lions.txt"
-numpad3 bindloadfilesilent "\direwolf.txt"
-divide powexec_name "summon wolves"
-multiply powexec_name "summon lions"
-subtract powexec_name "summon dire wolf"
-add powexec_name train beasts
-numpadenter powexec_name Tame Beasts

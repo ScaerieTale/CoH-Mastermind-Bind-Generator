@@ -1,7 +1,0 @@
-numpad4 petcom_pow "assault bot" aggressive
-numpad5 petcom_pow "Assault Bot" defensive
-numpad6 petcom_pow "Assault Bot" passive
-numpad7 petcom_pow "Assault Bot" attack
-numpad8 petcom_pow "Assault Bot" follow
-numpad9 petcom_pow "Assault Bot" goto
-lctrl+decimal petcom_pow "Assault Bot"  dismiss

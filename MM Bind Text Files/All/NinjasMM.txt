@@ -1,9 +1,0 @@
-numpad0 bindloadfilesilent "\all.txt"
-numpad1 bindloadfilesilent "\genin.txt"
-numpad2 bindloadfilesilent "\jounin.txt
-numpad3 bindloadfilesilent "\oni.txt"
-divide powexec_name "call genin"
-multiply powexec_name "call jounin"
-subtract powexec_name oni
-add powexec_name train ninjas
-numpadenter powexec_name kuji in zen

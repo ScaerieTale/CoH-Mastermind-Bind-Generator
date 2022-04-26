@@ -1,7 +1,0 @@
-numpad4 petcom_pow demonlings aggressive
-numpad5 petcom_pow demonlings defensive
-numpad6 petcom_pow demonlings passive
-numpad7 petcom_pow demonlings attack
-numpad8 petcom_pow demonlings follow
-numpad9 petcom_pow demonlings goto
-lctrl+decimal petcom_pow demonlings dismiss

@@ -1,7 +1,0 @@
-numpad4 petcom_pow spec ops aggressive
-numpad5 petcom_pow spec ops defensive
-numpad6 petcom_pow spec ops passive
-numpad7 petcom_pow spec ops attack
-numpad8 petcom_pow spec ops follow
-numpad9 petcom_pow spec ops goto
-lctrl+decimal petcom_pow spec ops dismiss
