@@ -1,3 +1,7 @@
+# Created with Python 3.10.  If I'm not mistkaen, it
+# *should* compile on most versions of Python 3 as
+# I'm not using any special features (that I know of...)
+
 # GUI framework
 from tkinter import *
 
