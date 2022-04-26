@@ -22,4 +22,4 @@ Want your Arsonist to get his butt back in line before he's roasted?  Slap 1, 8 
 
 Currently I only have the pets script finished, saved here on main.  Soon I hope to have the full script and possibly an EXE ready, just in case one of these aforementioned community development teams decide to add a new Mastermind primary.  
 
-Hey, an evil genius can dream, right?
+Hey, an evil genius can dream, right? 
