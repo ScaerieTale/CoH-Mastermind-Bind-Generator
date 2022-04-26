@@ -19,14 +19,12 @@ subtract powexec_name "{tier_3_summon}"
 add powexec_name {buff_1}
 numpadenter powexec_name {buff_2}
 ''')
-f.close()
+file.close()
 
-pets_list = [tier_1, tier_2, tier_3]
-for pet in pets_list:
-    file = open(f"{pet}.txt", 'w')
-    file.write(f"""
-
-""")
-
-
-
+pets = {
+    tier_1: tier_1_summon,
+    tier_2: tier_2_summon,
+    tier_3: tier_3_summon
+}
+for pet, summon in pets.items():
+    print(f"Testing: {pet}, {summon}")
