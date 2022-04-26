@@ -8,8 +8,8 @@ tier_3_summon = input("Finally, your tier 3 (e.g. Call Bruiser): ")
 buff_1 = input("What is the name of your FIRST primary upgrade power (e.g. Equip Thugs): ")
 buff_2 = input("Now, what is your SECOND upgrade power? (e.g. Upgrade Equipment): ")
 
-f = open(f"{master_file}MM.txt", 'w')
-f.write(f'''numpad0 bindloadfilesilent "\all.txt"
+file = open(f"{master_file}MM.txt", 'w')
+file.write(f'''numpad0 bindloadfilesilent "\all.txt"
 numpad1 bindloadfilesilent "\{tier_1}.txt"
 numpad2 bindloadfilesilent "\{tier_2}.txt"
 numpad3 bindloadfilesilent "\{tier_3}.txt"
@@ -19,13 +19,14 @@ subtract powexec_name "{tier_3_summon}"
 add powexec_name {buff_1}
 numpadenter powexec_name {buff_2}
 ''')
-# f = open(f"{title}.txt", 'w')
-# f.write(f"""numpad4 petcom_pow {minName} aggressive
-# numpad5 petcom_pow {minName} defensive
-# numpad6 petcom_pow {minName} passive
-# numpad7 petcom_pow {minName} attack
-# numpad8 petcom_pow {minName} follow
-# numpad9 petcom_pow {minName} goto
-# lctrl+decimal petcom_pow {minName} dismiss""")
-#         f.close()
-#
+f.close()
+
+pets_list = [tier_1, tier_2, tier_3]
+for pet in pets_list:
+    file = open(f"{pet}.txt", 'w')
+    file.write(f"""
+
+""")
+
+
+
