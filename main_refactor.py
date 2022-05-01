@@ -10,29 +10,78 @@ LARGE_TEXT = 28
 
 # Defaults
 font_size = MEDIUM_TEXT
+font_setup = (FONT_FAMILY, font_size)
 dark_mode = True
+
+# Set up Dark/Light Mode switch functionality
+if dark_mode is True:
+    background_color = BG_DARK_MODE
+    foreground_color = FG_DARK_MODE
+else:
+    background_color = BG_LIGHT_MODE
+    foreground_color = FG_LIGHT_MODE
+ 
 
 # GUI framework
 from statistics import median
 from tkinter import *
+from turtle import back
 
 # main window setup
 root = Tk()
 root.maxsize(1600,900)
 root.title("ScaerieTale's Mastermind Bind Generator")
 
-# Content setup
+# Functions
 
-def labels(label_text, size):
-    if size == SMALL_TEXT:
-        if dark_mode is True:
-            Label(text=label_text, font=(FONT_FAMILY, SMALL_TEXT, ), bg=BG_DARK_MODE, fg=FG_DARK_MODE)
-        elif dark_mode is not True:
-            Label(text=label_text, font=(FONT_FAMILY, SMALL_TEXT, ), bg=BG_LIGHT_MODE, fg=FG_LIGHT_MODE)
-    
-    if size == MEDIUM_TEXT:
-        if dark_mode is True:
-            Label(text=label_text, font=(FONT_FAMILY, MEDIUM_TEXT), bg=BG_DARK_MODE, fg=FG_DARK_MODE)
-        elif dark_mode is not True:
-            Label(text=label_text, font=(FONT_FAMILY, MEDIUM_TEXT), bg=BG_LIGHT_MODE, fg=FG_LIGHT_MODE)
+
+
+
+# Labels
+test_label = Label(text="Testing", font=font_setup, bg=background_color, fg=foreground_color)
+test_label.pack()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
